@@ -92385,7 +92385,7 @@ A.axj.prototype={
 $1(a){return B.OF},
 $S:531}
 A.v7.prototype={
-L(a){return new A.B3(B.T8,"Flutter Demo",A.mf(null,A.aO7(B.Z,B.Ou),!0),!1,null)}}
+L(a){return new A.B3(B.T8,"Think School",A.mf(null,A.aO7(B.Z,B.Ou),!0),!1,null)}}
 A.n0.prototype={
 ao(){return new A.Td(A.b([],t.p),B.j)}}
 A.Td.prototype={
