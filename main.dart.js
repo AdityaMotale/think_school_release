@@ -92507,7 +92507,7 @@ $S:25}
 A.atc.prototype={
 $2(a,b){var s,r=null,q=t.w,p=A.be(a,r,q).w,o=A.be(a,r,q).w,n=t.p,m=A.b([],n),l=A.be(a,r,q).w,k=A.be(a,r,q).w,j=this.a,i=j.d.i(0,"img")
 i.toString
-m.push(A.eq(A.i2(B.Bb,A.b([B.PO,A.uF(i,B.Cu,new A.atb(),A.be(a,r,q).w.a.a)],n),B.H,B.ba),k.a.b,l.a.a))
+m.push(A.eq(A.i2(B.Bb,A.b([A.uF(i,B.Cu,new A.atb(),A.be(a,r,q).w.a.a),B.PO],n),B.H,B.ba),k.a.b,l.a.a))
 l=A.bP(r,A.jB("https://adityamotale.github.io/think_school_release/public/icons/like_48.svg"),B.m,r,r,B.fI,r,r,r,r,r,r,r)
 k=j.d.i(0,"likes")
 k.toString
