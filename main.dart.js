@@ -92369,14 +92369,14 @@ vw(a){var s=a.length
 s=s===6||s===7?""+"ff":""
 s+=B.d.lR(a,"#","")
 return new A.p(A.f7(s.charCodeAt(0)==0?s:s,16)>>>0)},
-L(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=A.ok(h,h,h,h,A.cR(h,B.cz,"Explore Case Studies"),B.aF,B.o,h,B.a2,B.aq)
+L(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=A.ok(h,h,h,h,A.cR(h,B.cz,"Explore Concepts"),B.aF,B.o,h,B.a2,B.aq)
 g.hG(1/0,0)
 s=g.b
 r=s.c
 s=s.a.c
 s.gaI(s)
 s=t.p
-r=A.i2(B.e9,A.b([A.bP(h,h,B.m,h,h,B.mT,h,6,h,h,h,h,r),A.b3("Explore Case Studies \u2014",h,h,h,h,B.cz,h,h)],s),B.H,B.ba)
+r=A.i2(B.e9,A.b([A.bP(h,h,B.m,h,h,B.mT,h,6,h,h,h,h,r),A.b3("Explore Concepts \u2014",h,h,h,h,B.cz,h,h)],s),B.H,B.ba)
 q=t.w
 p=A.be(a,h,q).w.a.a/2-60
 o=A.b([],s)
